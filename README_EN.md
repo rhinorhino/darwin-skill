@@ -8,7 +8,7 @@ English | **[中文](README.md)**
 
 <div align="center">
 
-# darwin.skill
+# darwin.skill 2.0
 
 **Optimize your Agent Skills the way you train models.**
 

@@ -14,7 +14,7 @@
 
 <div align="center">
 
-# 达尔文.skill
+# 达尔文.skill 2.0
 
 **像训练模型一样优化你的 Agent Skills。**
 
